@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(to right, #ffecd2, #fcb69f);
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+  }
+  
+  
+  h2 {
+    color: #343a40;
+  }
+  
+  button {
+    transition: all 0.3s ease-in-out;
+  }
+  
+  button:hover {
+    transform: scale(1.05);
+    background-color: #0056b3 !important;
+    color: white !important;
+  }
+  
